@@ -14,6 +14,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     fontSize: width(4),
     marginBottom: height(2)
-  }
+  },
+
 });
 export default styles;
